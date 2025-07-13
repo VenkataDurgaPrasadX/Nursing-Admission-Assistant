@@ -1,0 +1,63 @@
+# 🤖 B.Sc Nursing Admissions Assistant – Chatbot
+
+This project is a conversational web chatbot built with **HTML**, **CSS**, and **JavaScript**. It simulates an AI assistant that guides students through the admission process for the **B.Sc Nursing** program in a friendly and interactive manner.
+
+---
+
+## 📌 Features
+
+- ✅ Step-by-step admission eligibility flow  
+- 🧠 Handles **Yes/No/Unclear** responses gracefully  
+- 💬 Realistic conversation style with delays  
+- 🖋 Supports **bold headings** and **formatted text**  
+- 🔊 **Voice input** using Web Speech API  
+- ⏎ Send messages by pressing Enter  
+- 🔄 **Reset button** to restart the chat  
+- 🧑‍🎓 Personalized flow for B.Sc Nursing admissions
+
+---
+
+## 🏗️ Technologies Used
+
+- **HTML5** – Layout and structure  
+- **CSS3** – Styling the chat interface  
+- **JavaScript** – Chat logic, user flow handling  
+- **Web Speech API** – Voice input support (for modern browsers)
+
+---
+
+## 🚀 How It Works
+
+1. Bot greets the user.
+2. Asks whether the user is interested in B.Sc Nursing.
+3. Checks Biology background and eligibility.
+4. Shares program info, fees, hostel, location, scholarships, and seat availability.
+5. Offers summary and thanks the user.
+
+Responses are processed with logical `step` tracking. The bot handles delays, unclear inputs, and allows voice replies.
+
+---
+
+## 📷 Screenshots
+
+> Include screenshots here (e.g., `/screenshots/chat-ui.png`)
+
+---
+
+## 🔊 Voice Input Notes
+
+- Works in Chrome using `webkitSpeechRecognition`.
+- Make sure the browser has **microphone permission** enabled.
+
+---
+
+## 📂 Folder Structure
+
+```bash
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── bot-avatar.png
+│   └── user-avatar.png
+└── README.md
