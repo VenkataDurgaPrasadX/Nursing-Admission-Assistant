@@ -2,7 +2,7 @@
 
 ![Chatbot Screenshot](screenshots/screenshot1.png)
 
-🚀 **Live Demo**: [Click here to try the chatbot](https://your-username.github.io/repo-name/)
+🚀 **Live Demo**: [Click here to try the chatbot](https://venkatadurgaprasadx.github.io/Nursing-Admission-Assistant/)
 
 > 🎓 Intelligent conversational assistant for B.Sc Nursing Admissions with voice input, structured logic, and modern UI.
 
