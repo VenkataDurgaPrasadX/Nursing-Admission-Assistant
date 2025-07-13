@@ -1,6 +1,6 @@
 # 🤖 Prompt Engineering Assignment – LiaPlus AI
 
-![Chatbot Screenshot](screenshots/screenshot1.png)
+![Chatbot Screenshot](screenshots/screenshot3.png)
 
 🚀 **Live Demo**: [Click here to try the chatbot](https://venkatadurgaprasadx.github.io/Nursing-Admission-Assistant/)
 
