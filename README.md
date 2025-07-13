@@ -79,7 +79,7 @@ Future integration plan includes:
 | `index.html`                | Main chatbot UI structure                  |
 | `style.css`                 | Modern responsive styling                  |
 | `script.js`                 | Core chatbot logic with steps              |
-| `LiaPlus_AI_Assistant.pdf` | Full conversational flow with explanations |
+| `LiaAI Assistant.pdf`       | Full conversational flow with explanations |
 | `flowchart.png`             | Flowchart of the conversation structure    |
 | `README.md`                 | Project overview (you’re reading it)       |
 | `screenshots/`              | Chatbot demo screenshots                   |
@@ -98,7 +98,7 @@ With voice input, smart logic handling, and future-ready multilingual capability
 ## 📬 Contact
 
 📧 venkatadurgaprasad04@gmail.com  
-🔗 [LinkedIn (Optional)](https://www.linkedin.com/in/venkata-durga-prasad/)  
-🌐 [Live Demo](https://your-username.github.io/repo-name/)
+🔗 [LinkedIn](https://www.linkedin.com/in/venkata-durga-prasad/)  
+🌐 [Live Demo](https://venkatadurgaprasadx.github.io/Nursing-Admission-Assistant/)
 
 ---
