@@ -1,7 +1,12 @@
 # 🤖 Prompt Engineering Assignment – LiaPlus AI
 
-## 📄 Project Title
-**Conversational Flow Design for B.Sc Nursing Admissions Assistant**
+![Chatbot Screenshot](screenshots/screenshot1.png)
+
+🚀 **Live Demo**: [Click here to try the chatbot](https://your-username.github.io/repo-name/)
+
+> 🎓 Intelligent conversational assistant for B.Sc Nursing Admissions with voice input, structured logic, and modern UI.
+
+---
 
 ## 🧑‍💻 Submitted By
 - **Name**: Tattukolla Venkata Durga Prasad  
@@ -17,61 +22,74 @@
 
 To design an intuitive and intelligent conversational assistant that:
 
-- Engages students professionally
-- Handles varied user responses effectively
-- Communicates program information clearly
-- Simulates a real-world AI-based admission counselor
+- Engages students professionally  
+- Handles varied user responses effectively  
+- Communicates program information clearly  
+- Simulates a real-world AI-based admission counselor  
 
 ---
 
 ## 📌 Key Features
 
-- **Structured Step-by-Step Chat Flow**
-- **Eligibility Filtering Based on Biology in 12th**
-- **Detailed Fee Breakdown with Installment Plan**
-- **Information on Hostel, Training, Location & Recognition**
-- **Scholarship Info & Seat Availability**
-- **Admission Criteria Summary**
-- **User-Friendly Fallback Handling**
-- **Final Exit Message**
+- ✅ Structured Step-by-Step Chat Flow  
+- 🧪 Eligibility Filtering Based on Biology in 12th  
+- 💰 Detailed Fee Breakdown with Installment Plan  
+- 🏠 Hostel, Training, Location & Recognition Info  
+- 🎓 Scholarship Info & Seat Availability  
+- 📄 Admission Criteria Summary  
+- 🔄 User-Friendly Fallback Handling  
+- 📤 Voice Input and Chat Reset Option  
+
+---
+
+## 🧠 Tools & Technologies Used
+
+- HTML, CSS, JavaScript  
+- Web Speech API for voice input  
+- Font Awesome for icons  
+- Modular JS logic with chatbot state handling  
+- Responsive UI design
 
 ---
 
 ## 💡 Innovations Added
 
-### 🔤 Multilingual Support (Hindi, Telugu & More)
-To enhance accessibility, a **language selection feature** has been proposed at the start of the conversation. This helps students from non-English backgrounds feel more comfortable and understood.
+### 🔤 Multilingual Support (Planned)
+Language selection feature proposed for Hindi, Telugu, and more to improve accessibility for non-English speakers.
 
 ### 📊 Analytics for Future Improvement
-If further developed, analytics can be added to monitor:
-- Where users drop off (e.g., fee info, eligibility check)
-- Which steps need more clarity or empathy
-This feedback can help improve assistant performance and increase admissions.
+Future integration plan includes:
+- Drop-off step tracking  
+- Feedback-based assistant optimization  
 
 ---
 
-## 🧠 Tools & Techniques Used
+## 🖼️ Project Screenshots
 
-- Prompt Engineering (Natural Language Flow)
-- Flowchart Design (Mermaid.js format)
-- User-centric decision trees
-- Use of fallback handling to manage unclear inputs
+| Chat Start | Voice Input | Eligibility Flow |
+|------------|-------------|------------------|
+| ![Start](screenshots/screenshot1.png) | ![Voice](screenshots/screenshot2.png) | ![Flow](screenshots/screenshot3.png) |
 
 ---
 
 ## 📎 Files Included
 
-| File | Description |
-|------|-------------|
+| File                        | Description                                |
+|-----------------------------|--------------------------------------------|
+| `index.html`                | Main chatbot UI structure                  |
+| `style.css`                 | Modern responsive styling                  |
+| `script.js`                 | Core chatbot logic with steps              |
 | `LiaPlus_AI_Assistant.pdf` | Full conversational flow with explanations |
-| `flowchart.mmd` or `flowchart.png` | Visual representation of conversation logic |
-| `README.md` | Project overview and documentation |
+| `flowchart.png`             | Flowchart of the conversation structure    |
+| `README.md`                 | Project overview (you’re reading it)       |
+| `screenshots/`              | Chatbot demo screenshots                   |
 
 ---
 
 ## 🏁 Conclusion
 
-This conversational assistant is a powerful example of how AI can be used to streamline and humanize the admission process. With multilingual support and smart logic handling, it ensures clarity, comfort, and engagement for prospective students.
+This conversational assistant is a powerful example of how AI-inspired chat design can streamline and humanize the admission process.  
+With voice input, smart logic handling, and future-ready multilingual capability, it ensures clarity, comfort, and engagement for prospective students.
 
 > “Designing conversations that feel human, helpful, and honest.”
 
@@ -79,10 +97,8 @@ This conversational assistant is a powerful example of how AI can be used to str
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to reach out:
-
 📧 venkatadurgaprasad04@gmail.com  
-🔗 [LinkedIn (Optional)](https://www.linkedin.com/venkata-durga-prasad/) *(add if you want)*
+🔗 [LinkedIn (Optional)](https://www.linkedin.com/in/venkata-durga-prasad/)  
+🌐 [Live Demo](https://your-username.github.io/repo-name/)
 
 ---
-
